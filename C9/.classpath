@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Java/ini4j-0.5.2/ini4j-0.5.2-jdk14.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jh2.0/javahelp/lib/jh.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jh2.0/javahelp/lib/jhall.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jh2.0/javahelp/lib/jhbasic.jar"/>
+	<classpathentry kind="lib" path="D:/Java/jh2.0/javahelp/lib/jsearch.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse4/cotpa01/workspace/C9"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

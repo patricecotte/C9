@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN" "../dtd/toc_2_0.dtd">
+<toc version="1.0">
+	<tocitem text="User and Reference manual" image="toplevelfolder">
+		<tocitem text="Introduction" target="intro"/>
+	<tocitem text="User manual" target="start" expand="true">
+		<tocitem text="Preface" target="overview"/>
+	<tocitem text="User guide">
+		<tocitem text="Install your calculator" target="install"/>
+		<tocitem text="How best use your calculator" target="chapter1"/>
+		<tocitem text="How change the skin of you calculator" target="chapter2"/>
+	</tocitem>
+	<!-- tocitem text="History" target="story" -->
+		<!-- tocitem text="Historique dans une autre fenêtre" target="story" presentationtype="javax.help.SecondaryWindow" presentationname="main"/ -->
+		<!-- example of popup below -->
+		<!-- tocitem text="Historique en Popup" target="story" presentationtype="javax.help.Popup"/ -->
+	<!-- /tocitem -->
+</toc>

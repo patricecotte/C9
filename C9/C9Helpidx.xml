@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN" 
+"http://java.sun.com/products/javahelp/index_1_0.dtd">
+<title>Index</title>
+<index version="1.0">
+	<indexitem text="Operations" expadn="false">
+		<indexitem text="numbers" target="chapter1"/>
+		<indexitem text="operators" target="chapter1"/>
+		<indexitem text="reset" target="chapter1"/>
+	</indexitem>
+	<indexitem text="Customize the calculator" expand="false">
+		<indexitem text="colors (change colors)" target="chapter2"/>
+		<indexitem text="skin (load)" target="chapter2"/>
+		<indexitem text="skin, (save)" target="chapter2"/>
+	</indexitem>
+	<indexitem text="History" expand="false">
+		<indexitem text="the latest" target="story"/>
+		<indexitem text="release" target="story"/>
+	</indexitem>
+</index>
